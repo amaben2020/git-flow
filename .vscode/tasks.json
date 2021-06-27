@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "../../../../../C:/Users/user/Desktop/Typescript Git/tsconfig.json",
+			"problemMatcher": ["$tsc"],
+			"group": "build",
+			"label": "tsc: build - ../../../../../C:/Users/user/Desktop/Typescript Git/tsconfig.json"
+		}
+	]
+}
